@@ -3,3 +3,4 @@
 ################################################################################
 
 *.sqlite
+/covidvaccinations/.vs/VSWorkspaceState.json
