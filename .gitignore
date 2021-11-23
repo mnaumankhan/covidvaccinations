@@ -4,3 +4,9 @@
 
 *.sqlite
 /covidvaccinations/.vs/VSWorkspaceState.json
+
+#ignore mdb
+*.mdb
+/.vs/covidvaccinations/v17/.suo
+/.vs/covidvaccinations/project-colors.json
+/.vs/VSWorkspaceState.json
